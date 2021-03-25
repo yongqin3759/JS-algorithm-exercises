@@ -1,3 +1,1 @@
-# AlgoCasts
-
-Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/)
+I'm doing Stephen Griders Course to improve my algorithms knowledge. Hopefully this takes me somewhere
